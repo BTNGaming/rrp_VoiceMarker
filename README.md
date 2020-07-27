@@ -16,6 +16,8 @@ Read the GitHub README for more information
 
 You can join our discord here for ESX Help and Other releases: https://discord.gg/9uRJv5v
 
+Alternative link: https://discord.me/rid
+
 ## Download
 
 ![|32x32](https://github.githubassets.com/favicon.ico) [GitHub ](https://github.com/btngaming/rrp_VoiceMarker)
