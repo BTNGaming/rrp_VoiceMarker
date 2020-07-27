@@ -1,6 +1,9 @@
 -- This was completely rewritten with a full custom config by BTNGaming --
 -- Please do NOT steal this and redistribute it as your own, Give proper credit --
 -- You can find more Scripts from Re-Ignited D3velopment (BTNGaming and Dev Team) @ https://discord.me/rid --
+-- We are also rewriting GCPhone to work with ESX versions 1.1 and older, as well as v1.2(v1 final). --
+-- Original Idea from FamilyRP Style Voice system. --
+-- Idea by: Jxnes http://github.com/jxnes --
 
 Config                            = {}
 
