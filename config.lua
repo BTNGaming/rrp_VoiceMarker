@@ -10,7 +10,7 @@ Config                            = {}
 -- DrawDistance - Change this to adjust distance the marker can be seen.
 Config.DrawDistance     = 0.95
 
--- MarkerType - Set this to the marker number you would like the marker to show up as.
+-- MarkerType - Set this to the marker number you would like the marker to show up as. Examples here: https://docs.fivem.net/docs/game-references/markers/
 Config.MarkerType       = 0
 
 -- MarkerBounce - Set to 1 for a bouncing animation marker, Set to 0 for a solid marker.
